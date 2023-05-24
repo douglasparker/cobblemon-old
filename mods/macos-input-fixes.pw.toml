@@ -1,0 +1,13 @@
+name = "MacOS Input Fixes"
+filename = "macos-input-fixes-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x9BrsVME/versions/JMQcAP5p/macos-input-fixes-1.4.jar"
+hash-format = "sha1"
+hash = "7c9048fbe87dfdf653343e8d3b1b0b1db42f5762"
+
+[update]
+[update.modrinth]
+mod-id = "x9BrsVME"
+version = "JMQcAP5p"

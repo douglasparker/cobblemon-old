@@ -1,0 +1,13 @@
+name = "Zombie Horse Spawn"
+filename = "zombiehorsespawn-1.19.2-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owDBGfRd/versions/xBigJRWb/zombiehorsespawn-1.19.2-4.6.jar"
+hash-format = "sha1"
+hash = "d517dad9f97730295d626c8e1df6abd513a44331"
+
+[update]
+[update.modrinth]
+mod-id = "owDBGfRd"
+version = "xBigJRWb"

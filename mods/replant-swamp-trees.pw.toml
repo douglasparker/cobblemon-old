@@ -1,0 +1,13 @@
+name = "Replant Swamp Trees"
+filename = "replant-swamp-trees-mc1.19.2-v0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnfgLqW5/versions/Qf0OPO1S/replant-swamp-trees-mc1.19.2-v0.0.2.jar"
+hash-format = "sha1"
+hash = "f4ec67befb4903ad90e11c3b1c32ce98eb8fcf92"
+
+[update]
+[update.modrinth]
+mod-id = "TnfgLqW5"
+version = "Qf0OPO1S"
