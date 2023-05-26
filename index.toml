@@ -301,11 +301,6 @@ hash = "426ead94b28cb62d42c53f2f9fa808e520ec519b8bc744284cd2dba4d5966930"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
