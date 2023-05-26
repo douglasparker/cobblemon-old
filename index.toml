@@ -126,6 +126,11 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
+metafile = true
+
+[[files]]
 file = "mods/better-enchanted-books.pw.toml"
 hash = "345789b47f582c6b93f3266185133e29f233e91078ddcf245847360cf89781e0"
 metafile = true
@@ -808,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
 
 [[files]]
