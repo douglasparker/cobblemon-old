@@ -431,6 +431,11 @@ hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-byg-compat.pw.toml"
+hash = "184db6c4677f168c8e4dffaa3067f73bbfc6f0a74906b17d67b7cc5bd04b2471"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
