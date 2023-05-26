@@ -401,6 +401,11 @@ hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
 metafile = true
 
 [[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "291096a5ce6573cae860d94ae930ca6febfbf750bd1f83c08fcf02909c48fe44"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "3dbaa5547de693172431a16b53fd042ef6b0d2658d0f5669b60951dec02b9731"
 metafile = true
