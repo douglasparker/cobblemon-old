@@ -391,6 +391,11 @@ hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-table-descriptions.pw.toml"
 hash = "b7a5b011e2bc90a4a6942e5bd0ca20b02ea3ad4f02938967563bef03ff34140a"
 metafile = true
