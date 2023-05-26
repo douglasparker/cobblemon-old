@@ -1104,3 +1104,8 @@ metafile = true
 file = "resourcepacks/kiece-minimap-icons-cobblemon.pw.toml"
 hash = "1e6ee2558353f094f4298d005586f1158f94f1be16b8574810dc15726dc03491"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
+metafile = true
