@@ -1,0 +1,13 @@
+name = "Kiece - Cobblemon Minimap Icons"
+filename = "Kiece_XaerosMinimap_Cobblemon_v4.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAHhTQrE/versions/XA0m3A60/Kiece_XaerosMinimap_Cobblemon_v4.1.zip"
+hash-format = "sha1"
+hash = "c0bb790e070f8e7d26d24e8794efd7cb4619fffa"
+
+[update]
+[update.modrinth]
+mod-id = "mAHhTQrE"
+version = "XA0m3A60"

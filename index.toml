@@ -1094,3 +1094,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "resourcepacks/kiece-minimap-icons-cobblemon.pw.toml"
+hash = "1e6ee2558353f094f4298d005586f1158f94f1be16b8574810dc15726dc03491"
+metafile = true
