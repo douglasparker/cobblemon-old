@@ -1,0 +1,13 @@
+name = "Cobblemon Interface"
+filename = "Cobblemon Interface v0.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gfiYlQU0/versions/n9SKWX4f/Cobblemon%20Interface%20v0.7.zip"
+hash-format = "sha1"
+hash = "b938566fbf1f90775175394f99260fa18b0e88b5"
+
+[update]
+[update.modrinth]
+mod-id = "gfiYlQU0"
+version = "n9SKWX4f"
