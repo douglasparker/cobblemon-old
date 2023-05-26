@@ -336,6 +336,11 @@ hash = "05b9d8dd4843bdaf0129f25207b38a53aff35eb113b9c4d304121918cfb01e30"
 metafile = true
 
 [[files]]
+file = "mods/dragonloot.pw.toml"
+hash = "d92834be5a944f4c546a682e27c30cd09ebc026b3a5689aeedf595c637a25a3a"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "82b4407537197c227ffbacd6de6a6f1181f69389f1635be1952b9b8392174dac"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "772e44b75405916c14affc33c9e8ff3955d131750ecaaa3016a0b55fa6786154"
 metafile = true
 
 [[files]]
@@ -741,6 +751,11 @@ hash = "f1468e8f5402ddd2d1f26c679317e536b34ba63250353334e6accc51cfc3a90e"
 metafile = true
 
 [[files]]
+file = "mods/more-babies.pw.toml"
+hash = "1dc2fa0ed7e54a54cda115a7dd0083b81a9d1175479c73701656fa548b716c49"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
@@ -888,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "2e91f437d8f28fafe94f0c7ef95e48e5e8d84126f5fa04226e1a26a0fc129557"
 metafile = true
 
 [[files]]
