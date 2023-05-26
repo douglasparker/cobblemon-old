@@ -751,6 +751,11 @@ hash = "8c753d17e5f07c978239bd8c21f63d5dd1d7ba2d743d1355d6c090317956fba0"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
