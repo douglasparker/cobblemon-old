@@ -596,6 +596,21 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "86bdf3e7c87946fad718883449651e7606fba0d0fa173eb32b3d985e2a2cd8d5"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "5ab8d1f56003946b1490d2e56bebc4f7c1bfad55e440766b4fdccf451a5cf3d1"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "4cf82498772f32b8957d940145ff1950832f9774b0865ac05edbf2ec300b8131"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
