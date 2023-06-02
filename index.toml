@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "345789b47f582c6b93f3266185133e29f233e91078ddcf245847360cf89781e0"
+hash = "879cdb0367900d4a2079b567931889ba0d7c267cecad70ad174b005f014a45b7"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b5dc558085bbd203d91141ab0b52ec5f405e954506cdde14be12294939e255c1"
+hash = "3077ce6e67dff92a50d26e85d180253b83ccb3ddec4ee91156db68498cbc36e8"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "d7250cb266b2c755acca03a407890508e398159920fd5096ac061db0b4d83622"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "d9cca1c32beb9e3fc76717bf4f08ca8328eb3bd10e67bfd3fd45f16807be6868"
+hash = "a976fe9234308267c042ead910484c2e701fcab9b5d74545c72aa59bfb037686"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "4ffd31a2626c86e2c383be6b036afeff23c5eec012ab00d8a4c1fa47adee9c65"
+hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/merchant-markers.pw.toml"
-hash = "1a0d6bc5252cc29e65887b9636aba1b79afb72d553243b88a149d361506a3495"
+hash = "f3e09b6ae1646b5b6f1ed963962de7cecbb225b30bdd7955864455a84cf21550"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
+hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
 metafile = true
 
 [[files]]
@@ -917,12 +917,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "0bf9643dbc1757b6c7a6a65b17427f86fc91de67e2d269dd7245032858a06836"
+hash = "e3599de94b2b1c8dc5f390380ab2f970dcc8d15452dd5e56bbf2a33fa47f3ac1"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fe03d60134dc47ae7945cf435f52bcb10e3ba244ec80c594c8d5a3708977f49a"
+hash = "bae5197d38d735273c450e5f4c7d921f8dacc81013557fb9909cd8b960092ed5"
 metafile = true
 
 [[files]]
