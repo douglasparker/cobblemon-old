@@ -476,11 +476,6 @@ hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
 
 [[files]]
-file = "mods/fantasy-furniture.pw.toml"
-hash = "058d0330f8d3ca2264ab1a2a798bb4be32d9622f5218ffe6ff62a554aeb1cd94"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
@@ -978,16 +973,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "b10d218656634cfdcc0230d8ecfc48abfd13a51202e268209516749ab48ce1e7"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "fcb90233e37c1d2abd4da5467cbb4015c7d9685fe883a5a5f854107558838eb5"
 metafile = true
 
 [[files]]
