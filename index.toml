@@ -956,6 +956,11 @@ hash = "93393782b087439277e3206defd2e5f122d582033e6122abca2d624da1205977"
 metafile = true
 
 [[files]]
+file = "mods/transparent-cosmetics.pw.toml"
+hash = "c8ae96e34e6028285eaa29e5a872d1d57b34bf81d7a0b9460691600ae1b2fbd3"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "af91911598c81b1f3744c1e8f0a7258fbd74a85b87f67d78b52730a2e85c8e0a"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Transparent Cosmetics"
+filename = "TransparentCosmetics-1.5.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rv02R5P1/versions/Ny2eIG4b/TransparentCosmetics-1.5.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "a62307efe39efef0cb93d8c6ac80d3ede03844ba"
+
+[update]
+[update.modrinth]
+mod-id = "Rv02R5P1"
+version = "Ny2eIG4b"
