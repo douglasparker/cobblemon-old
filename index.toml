@@ -381,26 +381,6 @@ hash = "772e44b75405916c14affc33c9e8ff3955d131750ecaaa3016a0b55fa6786154"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
 metafile = true
