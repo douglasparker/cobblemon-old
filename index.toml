@@ -401,11 +401,6 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
-file = "mods/emoji-type.pw.toml"
-hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
 metafile = true
